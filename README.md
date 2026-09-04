@@ -81,7 +81,7 @@ Outputs `shipments.csv`, `gps_pings.csv`, `status_events.csv`, `weather.csv`, an
 - [x] Synthetic multi-source shipment data generator
 - [x] Weather data integration
 - [x] Rule-based risk detection and impact scoring
-- [ ] Claude API reasoning layer (explanation + recommended action + draft customer message)
+- [x] Claude API reasoning layer (explanation + recommended action + draft customer message)
 - [ ] Simple dashboard (Streamlit) for a non-technical ops user
 - [ ] Demo video walkthrough
 
