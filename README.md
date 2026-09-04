@@ -2,7 +2,7 @@
 
 **A prototype built to explore how forward-deployed / solutions engineering work could accelerate logistics operations — built as a self-directed case study, not an assigned project.**
 
-> 🎯 This project simulates a real pain point in logistics operations: shipments silently going "at risk" (stale GPS, slipping ETAs, severe weather, carrier exceptions) while ops teams find out too late. It ingests messy multi-source data, flags and ranks at-risk shipments by business impact, and (next phase) uses an LLM to generate a recommended action and a customer-facing explanation — the kind of tool a forward-deployed engineer would build embedded inside a logistics customer's operation.
+> 🎯 This project simulates a real pain point in logistics operations: shipments silently going "at risk" (stale GPS, slipping ETAs, severe weather, carrier exceptions) while ops teams find out too late. It ingests messy multi-source data, flags and ranks at-risk shipments by business impact, and (next phase) uses an LLM to generate a recommended action and a customer-facing explanation, the kind of tool a forward-deployed engineer would build embedded inside a logistics customer's operation.
 
 ---
 
