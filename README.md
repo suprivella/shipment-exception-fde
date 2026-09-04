@@ -63,8 +63,8 @@ Carrier status: Exception; Severe weather on route: Ice Storm (severity 8.7)
 - **Python** — data generation and detection logic
 - **Claude API** — AI reasoning layer (in progress)
 - Built iteratively with AI-assisted coding (Claude), with logic, thresholds, and scoring design done by me — I can walk through every design decision in the code.
-- 
-## Requirements ``` pip3 install streamlit pandas anthropic ``` 
+- **pip3 install streamlit pandas Anthropic**
+ 
 ## Getting started
 
 ```bash
