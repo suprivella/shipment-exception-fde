@@ -87,6 +87,6 @@ Outputs `shipments.csv`, `gps_pings.csv`, `status_events.csv`, `weather.csv`, an
 
 ## About me
 
-I'm transitioning from a data analytics engineering background into forward-deployed / solutions engineering roles, where the job is being embedded with customers to solve real operational problems fast. This project is part of a series of self-directed case studies — see my [profile](https://github.com/YOUR-USERNAME) for others.
+I'm transitioning from a data analytics engineering background into forward-deployed / solutions engineering roles, where the job is being embedded with customers to solve real operational problems fast. This project is part of a series of self-directed case studies — see my [profile](https://github.com/suprivella) for others.
 
 📫 [LinkedIn](https://www.linkedin.com/in/supradeepa-vella/) · [Email](suprivella88@gmail.com)
