@@ -1,0 +1,151 @@
+shipment_id,carrier,origin,destination,customer_tier,order_value_usd,ship_date,planned_eta,current_eta,current_status,last_gps_timestamp,scenario_tag,notes
+SHP-10000,FreightCo,"Chicago, IL","Denver, CO",Gold,5735.63,2026-08-29 15:17,2026-09-01 19:54,2026-09-02 07:48,Delayed,2026-09-02 12:52,weather_delay,Carrier reports weather-related delay on route
+SHP-10001,SwiftHaul,"Dallas, TX","Charlotte, NC",Platinum,9622.2,2026-08-31 03:32,2026-09-02 12:10,2026-09-02 12:10,Out for Delivery,2026-09-02 13:08,on_time,
+SHP-10002,FreightCo,"Los Angeles, CA","Charlotte, NC",Gold,20885.94,2026-08-31 22:23,2026-09-03 07:42,2026-09-03 07:42,In Transit,2026-09-01 08:57,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10003,FreightCo,"Atlanta, GA","Seattle, WA",Gold,5432.37,2026-08-28 19:28,2026-09-01 12:03,2026-09-01 12:03,Out for Delivery,2026-09-02 12:39,on_time,
+SHP-10004,FreightCo,"Dallas, TX","Denver, CO",Gold,17075.93,2026-08-30 04:44,2026-09-01 15:49,2026-09-01 17:35,In Transit,2026-09-02 12:07,minor_delay,
+SHP-10005,CargoNet,"Dallas, TX","Miami, FL",Standard,21788.86,2026-08-31 09:20,2026-09-03 11:41,2026-09-03 11:41,In Transit,2026-09-01 07:13,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10006,FreightCo,"Chicago, IL","Denver, CO",Gold,1916.47,2026-08-29 12:58,2026-09-01 22:55,2026-09-01 22:55,Delivered,2026-09-02 13:40,on_time,
+SHP-10007,FreightCo,"Atlanta, GA","Columbus, OH",Standard,5906.85,2026-08-31 16:51,2026-09-02 09:07,2026-09-02 09:07,In Transit,2026-09-01 04:04,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10008,FreightCo,"Memphis, TN","Seattle, WA",Gold,10395.34,2026-08-29 03:04,2026-08-30 18:19,2026-08-30 18:19,In Transit,2026-09-01 22:39,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10009,FreightCo,"Chicago, IL","Denver, CO",Standard,20933.48,2026-08-28 16:58,2026-09-01 12:33,2026-09-02 01:21,Delayed,2026-09-02 12:08,weather_delay,Carrier reports weather-related delay on route
+SHP-10010,TransGlobal,"Dallas, TX","Columbus, OH",Standard,13646.44,2026-08-29 14:11,2026-08-31 05:37,2026-08-31 09:10,In Transit,2026-09-02 13:06,minor_delay,
+SHP-10011,CargoNet,"Newark, NJ","Miami, FL",Gold,6666.99,2026-08-29 21:42,2026-09-01 04:33,2026-09-01 04:33,Delivered,2026-09-02 13:28,on_time,
+SHP-10012,SwiftHaul,"Los Angeles, CA","Miami, FL",Standard,15369.61,2026-08-28 15:13,2026-08-31 18:27,2026-08-31 18:27,Out for Delivery,2026-09-02 12:35,on_time,
+SHP-10013,FreightCo,"Chicago, IL","Denver, CO",Gold,7061.67,2026-09-01 13:39,2026-09-04 23:55,2026-09-04 23:55,In Transit,2026-09-01 07:41,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10014,FreightCo,"Atlanta, GA","Phoenix, AZ",Standard,16739.95,2026-08-31 04:02,2026-09-03 01:38,2026-09-03 18:07,Delayed,2026-09-02 09:17,weather_delay,Carrier reports weather-related delay on route
+SHP-10015,FreightCo,"Los Angeles, CA","Columbus, OH",Standard,5716.36,2026-08-29 07:36,2026-08-31 23:13,2026-08-31 23:13,In Transit,2026-09-02 13:35,on_time,
+SHP-10016,TransGlobal,"Dallas, TX","Miami, FL",Standard,6783.57,2026-09-01 03:35,2026-09-03 17:40,2026-09-04 15:47,In Transit,2026-09-02 10:26,at_risk_eta_slip,ETA has slipped significantly from original plan
+SHP-10017,TransGlobal,"Newark, NJ","Charlotte, NC",Standard,3290.71,2026-08-28 23:35,2026-08-31 18:01,2026-08-31 18:01,In Transit,2026-09-01 08:39,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10018,CargoNet,"Memphis, TN","Charlotte, NC",Gold,11165.56,2026-08-31 17:29,2026-09-03 09:52,2026-09-03 18:15,Delayed,2026-09-02 12:39,weather_delay,Carrier reports weather-related delay on route
+SHP-10019,RapidLine,"Memphis, TN","Miami, FL",Gold,17469.59,2026-08-30 14:32,2026-09-01 17:10,2026-09-01 17:10,In Transit,2026-09-01 07:28,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10020,CargoNet,"Newark, NJ","Charlotte, NC",Standard,22307.36,2026-08-30 03:11,2026-09-02 10:20,2026-09-02 12:59,In Transit,2026-09-02 11:15,minor_delay,
+SHP-10021,TransGlobal,"Newark, NJ","Columbus, OH",Platinum,5935.28,2026-08-29 19:22,2026-09-02 01:45,2026-09-02 01:45,Delivered,2026-09-02 13:14,on_time,
+SHP-10022,RapidLine,"Newark, NJ","Denver, CO",Standard,20036.73,2026-08-28 23:48,2026-08-31 17:06,2026-08-31 17:06,Out for Delivery,2026-09-02 13:25,on_time,
+SHP-10023,FreightCo,"Atlanta, GA","Seattle, WA",Gold,11476.54,2026-08-31 05:35,2026-09-03 22:22,2026-09-03 22:22,Out for Delivery,2026-09-02 13:32,on_time,
+SHP-10024,SwiftHaul,"Los Angeles, CA","Denver, CO",Platinum,23704.37,2026-08-30 17:21,2026-09-01 20:43,2026-09-01 20:43,Delivered,2026-09-02 12:53,on_time,
+SHP-10025,TransGlobal,"Memphis, TN","Miami, FL",Standard,19946.43,2026-08-30 07:40,2026-08-31 22:08,2026-08-31 23:20,In Transit,2026-09-02 11:52,minor_delay,
+SHP-10026,CargoNet,"Los Angeles, CA","Seattle, WA",Gold,18329.45,2026-08-31 12:14,2026-09-04 03:20,2026-09-05 06:58,In Transit,2026-09-02 11:46,at_risk_eta_slip,ETA has slipped significantly from original plan
+SHP-10027,FreightCo,"Newark, NJ","Phoenix, AZ",Platinum,18057.85,2026-08-30 15:05,2026-09-03 00:35,2026-09-03 00:35,In Transit,2026-09-01 13:12,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10028,TransGlobal,"Atlanta, GA","Charlotte, NC",Gold,18087.85,2026-08-31 07:42,2026-09-03 16:16,2026-09-04 13:36,Exception,2026-09-01 18:10,exception,Customs hold at border crossing
+SHP-10029,SwiftHaul,"Memphis, TN","Seattle, WA",Platinum,504.18,2026-08-31 10:42,2026-09-03 03:25,2026-09-03 03:25,Out for Delivery,2026-09-02 12:34,on_time,
+SHP-10030,CargoNet,"Dallas, TX","Miami, FL",Gold,22730.91,2026-08-31 09:27,2026-09-03 08:45,2026-09-03 09:56,In Transit,2026-09-02 11:05,minor_delay,
+SHP-10031,TransGlobal,"Memphis, TN","Charlotte, NC",Standard,11459.98,2026-08-29 20:00,2026-09-02 15:26,2026-09-03 14:40,In Transit,2026-09-02 08:19,at_risk_eta_slip,ETA has slipped significantly from original plan
+SHP-10032,TransGlobal,"Memphis, TN","Seattle, WA",Standard,12611.71,2026-08-30 14:35,2026-09-01 07:25,2026-09-01 07:25,Out for Delivery,2026-09-02 13:03,on_time,
+SHP-10033,TransGlobal,"Dallas, TX","Miami, FL",Gold,20393.27,2026-08-28 16:58,2026-08-31 09:10,2026-08-31 10:29,In Transit,2026-09-02 13:05,minor_delay,
+SHP-10034,FreightCo,"Memphis, TN","Miami, FL",Gold,1544.26,2026-08-30 12:13,2026-09-02 13:35,2026-09-02 14:44,In Transit,2026-09-02 12:49,minor_delay,
+SHP-10035,FreightCo,"Los Angeles, CA","Columbus, OH",Standard,4018.48,2026-08-28 20:27,2026-08-31 01:58,2026-08-31 01:58,In Transit,2026-09-01 13:23,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10036,TransGlobal,"Chicago, IL","Charlotte, NC",Standard,20969.4,2026-08-30 06:19,2026-09-02 09:55,2026-09-02 22:42,Delayed,2026-09-02 11:40,weather_delay,Carrier reports weather-related delay on route
+SHP-10037,SwiftHaul,"Los Angeles, CA","Columbus, OH",Platinum,24140.77,2026-08-31 06:07,2026-09-02 00:09,2026-09-02 18:53,Delayed,2026-09-02 12:56,weather_delay,Carrier reports weather-related delay on route
+SHP-10038,RapidLine,"Newark, NJ","Columbus, OH",Standard,6022.3,2026-08-29 20:17,2026-09-01 01:32,2026-09-01 01:32,In Transit,2026-09-02 12:50,on_time,
+SHP-10039,SwiftHaul,"Dallas, TX","Phoenix, AZ",Platinum,21796.82,2026-08-30 02:30,2026-09-01 04:57,2026-09-01 17:24,Delayed,2026-09-02 11:59,weather_delay,Carrier reports weather-related delay on route
+SHP-10040,SwiftHaul,"Los Angeles, CA","Seattle, WA",Platinum,9657.83,2026-08-31 03:32,2026-09-02 09:17,2026-09-02 09:17,In Transit,2026-09-01 05:44,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10041,SwiftHaul,"Memphis, TN","Phoenix, AZ",Standard,17008.56,2026-08-29 16:47,2026-09-01 20:20,2026-09-03 00:24,In Transit,2026-09-02 09:46,at_risk_eta_slip,ETA has slipped significantly from original plan
+SHP-10042,TransGlobal,"Dallas, TX","Charlotte, NC",Standard,23615.86,2026-08-28 17:07,2026-08-30 22:50,2026-08-31 11:23,Delayed,2026-09-02 12:41,weather_delay,Carrier reports weather-related delay on route
+SHP-10043,TransGlobal,"Newark, NJ","Seattle, WA",Standard,23519.24,2026-09-01 03:35,2026-09-03 05:37,2026-09-03 05:37,Delivered,2026-09-02 13:26,on_time,
+SHP-10044,RapidLine,"Los Angeles, CA","Charlotte, NC",Standard,18629.88,2026-08-28 19:11,2026-08-31 08:20,2026-09-01 02:37,In Transit,2026-09-02 12:30,at_risk_eta_slip,ETA has slipped significantly from original plan
+SHP-10045,TransGlobal,"Chicago, IL","Seattle, WA",Gold,24211.53,2026-08-28 18:53,2026-09-01 08:20,2026-09-01 08:20,Delivered,2026-09-02 13:03,on_time,
+SHP-10046,FreightCo,"Atlanta, GA","Phoenix, AZ",Standard,13597.34,2026-08-29 09:20,2026-08-31 03:56,2026-08-31 14:57,Delayed,2026-09-02 09:50,weather_delay,Carrier reports weather-related delay on route
+SHP-10047,CargoNet,"Atlanta, GA","Seattle, WA",Standard,972.54,2026-08-28 14:08,2026-09-01 04:58,2026-09-01 08:06,In Transit,2026-09-02 12:23,minor_delay,
+SHP-10048,FreightCo,"Memphis, TN","Denver, CO",Standard,13873.11,2026-08-29 02:54,2026-08-31 16:43,2026-09-01 10:18,Delayed,2026-09-02 11:24,weather_delay,Carrier reports weather-related delay on route
+SHP-10049,FreightCo,"Newark, NJ","Miami, FL",Standard,16816.33,2026-08-30 22:33,2026-09-03 14:58,2026-09-05 12:12,Exception,2026-09-02 05:10,exception,Customs hold at border crossing
+SHP-10050,CargoNet,"Newark, NJ","Denver, CO",Standard,851.1,2026-08-28 20:48,2026-09-01 10:34,2026-09-01 10:34,Delivered,2026-09-02 12:49,on_time,
+SHP-10051,TransGlobal,"Memphis, TN","Charlotte, NC",Standard,14276.32,2026-09-01 05:50,2026-09-02 21:00,2026-09-02 21:00,Delivered,2026-09-02 13:47,on_time,
+SHP-10052,CargoNet,"Chicago, IL","Columbus, OH",Gold,23644.04,2026-08-29 12:20,2026-09-01 22:11,2026-09-01 22:11,Out for Delivery,2026-09-02 12:51,on_time,
+SHP-10053,CargoNet,"Los Angeles, CA","Denver, CO",Standard,7379.98,2026-08-30 23:07,2026-09-03 21:05,2026-09-03 21:05,Out for Delivery,2026-09-02 12:44,on_time,
+SHP-10054,CargoNet,"Dallas, TX","Charlotte, NC",Gold,23963.94,2026-08-30 00:02,2026-08-31 20:53,2026-08-31 20:53,In Transit,2026-09-02 13:03,on_time,
+SHP-10055,TransGlobal,"Dallas, TX","Seattle, WA",Platinum,11166.76,2026-08-31 08:55,2026-09-02 13:24,2026-09-02 13:24,Out for Delivery,2026-09-02 13:15,on_time,
+SHP-10056,CargoNet,"Memphis, TN","Phoenix, AZ",Gold,11995.6,2026-08-31 23:31,2026-09-02 15:13,2026-09-02 15:13,Out for Delivery,2026-09-02 12:31,on_time,
+SHP-10057,TransGlobal,"Chicago, IL","Charlotte, NC",Platinum,17023.81,2026-08-31 10:43,2026-09-03 18:08,2026-09-03 18:08,In Transit,2026-09-01 04:47,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10058,SwiftHaul,"Memphis, TN","Denver, CO",Standard,18521.61,2026-08-29 20:12,2026-09-01 15:47,2026-09-01 15:47,In Transit,2026-09-01 16:02,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10059,CargoNet,"Chicago, IL","Denver, CO",Gold,19204.43,2026-09-01 01:25,2026-09-03 12:01,2026-09-03 12:01,Delivered,2026-09-02 12:46,on_time,
+SHP-10060,SwiftHaul,"Atlanta, GA","Denver, CO",Standard,24614.11,2026-08-30 17:40,2026-09-01 22:35,2026-09-01 22:35,In Transit,2026-09-02 12:45,on_time,
+SHP-10061,CargoNet,"Dallas, TX","Seattle, WA",Platinum,22780.52,2026-08-29 07:35,2026-09-02 00:40,2026-09-03 04:45,Exception,2026-09-02 00:00,exception,Damaged goods reported at last checkpoint
+SHP-10062,RapidLine,"Newark, NJ","Columbus, OH",Standard,671.3,2026-08-31 17:17,2026-09-02 14:16,2026-09-03 19:14,Exception,2026-09-01 17:34,exception,Shipment misrouted to wrong hub
+SHP-10063,CargoNet,"Atlanta, GA","Phoenix, AZ",Standard,4845.39,2026-08-29 21:51,2026-09-01 17:15,2026-09-01 17:15,Delivered,2026-09-02 13:11,on_time,
+SHP-10064,TransGlobal,"Dallas, TX","Columbus, OH",Gold,8595.97,2026-08-30 00:17,2026-09-02 14:06,2026-09-02 14:06,In Transit,2026-09-01 13:28,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10065,RapidLine,"Atlanta, GA","Columbus, OH",Standard,4939.37,2026-08-31 03:43,2026-09-03 14:34,2026-09-03 22:19,Delayed,2026-09-02 11:31,weather_delay,Carrier reports weather-related delay on route
+SHP-10066,SwiftHaul,"Newark, NJ","Charlotte, NC",Gold,2185.71,2026-08-29 22:33,2026-09-01 04:56,2026-09-01 04:56,In Transit,2026-09-01 08:49,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10067,SwiftHaul,"Chicago, IL","Phoenix, AZ",Standard,17016.6,2026-08-30 19:56,2026-09-01 15:30,2026-09-01 15:30,Out for Delivery,2026-09-02 13:21,on_time,
+SHP-10068,RapidLine,"Newark, NJ","Seattle, WA",Standard,3120.47,2026-08-29 11:36,2026-09-01 17:50,2026-09-01 17:50,Delivered,2026-09-02 12:37,on_time,
+SHP-10069,TransGlobal,"Dallas, TX","Denver, CO",Standard,17565.44,2026-08-31 21:17,2026-09-03 06:58,2026-09-03 06:58,In Transit,2026-09-02 13:34,on_time,
+SHP-10070,RapidLine,"Newark, NJ","Columbus, OH",Platinum,8062.29,2026-09-01 06:52,2026-09-03 22:49,2026-09-04 02:19,In Transit,2026-09-02 12:07,minor_delay,
+SHP-10071,CargoNet,"Atlanta, GA","Columbus, OH",Gold,15949.42,2026-08-30 09:07,2026-09-01 04:37,2026-09-01 04:37,Delivered,2026-09-02 13:00,on_time,
+SHP-10072,SwiftHaul,"Newark, NJ","Seattle, WA",Standard,951.09,2026-08-29 00:39,2026-08-31 21:23,2026-08-31 21:23,In Transit,2026-09-01 18:36,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10073,TransGlobal,"Los Angeles, CA","Phoenix, AZ",Standard,12971.51,2026-09-01 03:48,2026-09-03 06:18,2026-09-03 06:18,In Transit,2026-09-02 13:45,on_time,
+SHP-10074,RapidLine,"Atlanta, GA","Seattle, WA",Platinum,23641.77,2026-08-30 13:28,2026-09-03 11:28,2026-09-03 11:28,In Transit,2026-09-02 13:30,on_time,
+SHP-10075,CargoNet,"Dallas, TX","Charlotte, NC",Standard,2023.59,2026-08-30 13:35,2026-09-02 23:27,2026-09-02 23:27,Delivered,2026-09-02 13:02,on_time,
+SHP-10076,CargoNet,"Los Angeles, CA","Phoenix, AZ",Standard,12984.54,2026-08-31 06:30,2026-09-03 07:17,2026-09-03 07:17,Delivered,2026-09-02 12:43,on_time,
+SHP-10077,FreightCo,"Newark, NJ","Seattle, WA",Gold,16458.66,2026-08-28 16:40,2026-08-31 15:23,2026-08-31 15:23,Out for Delivery,2026-09-02 13:39,on_time,
+SHP-10078,CargoNet,"Los Angeles, CA","Denver, CO",Standard,17703.23,2026-08-30 12:12,2026-09-02 09:51,2026-09-03 13:17,Exception,2026-09-01 14:41,exception,Damaged goods reported at last checkpoint
+SHP-10079,TransGlobal,"Atlanta, GA","Denver, CO",Gold,17683.71,2026-08-31 07:33,2026-09-02 16:29,2026-09-03 16:30,Exception,2026-09-02 04:03,exception,Damaged goods reported at last checkpoint
+SHP-10080,TransGlobal,"Newark, NJ","Denver, CO",Gold,2908.82,2026-08-29 14:52,2026-08-31 17:13,2026-08-31 17:13,In Transit,2026-09-02 13:00,on_time,
+SHP-10081,SwiftHaul,"Atlanta, GA","Charlotte, NC",Gold,1667.23,2026-08-29 12:12,2026-09-01 15:20,2026-09-01 15:20,In Transit,2026-09-02 12:37,on_time,
+SHP-10082,CargoNet,"Newark, NJ","Columbus, OH",Standard,8509.04,2026-08-30 18:22,2026-09-02 20:51,2026-09-02 22:15,In Transit,2026-09-02 12:14,minor_delay,
+SHP-10083,RapidLine,"Los Angeles, CA","Miami, FL",Gold,10140.66,2026-09-01 04:50,2026-09-05 03:44,2026-09-05 04:45,In Transit,2026-09-02 12:32,minor_delay,
+SHP-10084,TransGlobal,"Memphis, TN","Columbus, OH",Standard,23527.76,2026-08-31 02:42,2026-09-02 03:58,2026-09-03 09:58,Exception,2026-09-01 14:10,exception,Customs hold at border crossing
+SHP-10085,CargoNet,"Chicago, IL","Columbus, OH",Standard,22591.63,2026-08-31 18:35,2026-09-03 14:47,2026-09-03 14:47,Out for Delivery,2026-09-02 13:44,on_time,
+SHP-10086,FreightCo,"Memphis, TN","Phoenix, AZ",Standard,1323.19,2026-08-31 04:55,2026-09-01 20:45,2026-09-02 14:01,Exception,2026-09-01 15:03,exception,Carrier reports mechanical breakdown
+SHP-10087,CargoNet,"Dallas, TX","Denver, CO",Standard,3142.1,2026-08-28 14:41,2026-08-31 02:16,2026-08-31 02:16,In Transit,2026-09-02 12:50,on_time,
+SHP-10088,RapidLine,"Newark, NJ","Columbus, OH",Gold,1868.81,2026-08-30 04:58,2026-09-01 19:46,2026-09-01 19:46,In Transit,2026-09-01 18:36,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10089,TransGlobal,"Dallas, TX","Charlotte, NC",Standard,24645.25,2026-08-30 11:57,2026-09-02 00:46,2026-09-02 00:46,Delivered,2026-09-02 12:40,on_time,
+SHP-10090,RapidLine,"Dallas, TX","Phoenix, AZ",Gold,17747.9,2026-08-29 08:38,2026-09-02 03:31,2026-09-02 06:12,In Transit,2026-09-02 13:09,minor_delay,
+SHP-10091,SwiftHaul,"Newark, NJ","Denver, CO",Standard,5582.01,2026-08-31 17:56,2026-09-04 12:22,2026-09-04 12:22,In Transit,2026-09-02 12:35,on_time,
+SHP-10092,TransGlobal,"Atlanta, GA","Charlotte, NC",Gold,22093.74,2026-08-30 17:15,2026-09-03 05:25,2026-09-03 21:50,In Transit,2026-09-02 11:59,at_risk_eta_slip,ETA has slipped significantly from original plan
+SHP-10093,SwiftHaul,"Los Angeles, CA","Miami, FL",Standard,17184.2,2026-08-31 13:17,2026-09-04 02:35,2026-09-05 09:46,Exception,2026-09-02 03:18,exception,Customs hold at border crossing
+SHP-10094,SwiftHaul,"Chicago, IL","Denver, CO",Gold,5624.25,2026-08-30 18:13,2026-09-01 09:51,2026-09-01 09:51,In Transit,2026-09-01 03:55,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10095,SwiftHaul,"Chicago, IL","Columbus, OH",Standard,6176.03,2026-08-30 02:30,2026-09-01 05:38,2026-09-01 05:38,In Transit,2026-09-02 13:22,on_time,
+SHP-10096,FreightCo,"Memphis, TN","Columbus, OH",Standard,2250.62,2026-08-29 04:50,2026-09-01 07:32,2026-09-01 07:32,In Transit,2026-09-02 12:38,on_time,
+SHP-10097,TransGlobal,"Chicago, IL","Phoenix, AZ",Standard,18855.91,2026-08-29 17:34,2026-09-01 05:28,2026-09-01 05:28,In Transit,2026-09-02 13:06,on_time,
+SHP-10098,FreightCo,"Atlanta, GA","Miami, FL",Standard,23880.49,2026-08-30 23:54,2026-09-03 10:19,2026-09-03 10:19,Out for Delivery,2026-09-02 13:12,on_time,
+SHP-10099,RapidLine,"Atlanta, GA","Charlotte, NC",Platinum,328.84,2026-08-31 08:24,2026-09-02 18:00,2026-09-02 18:00,In Transit,2026-09-02 13:17,on_time,
+SHP-10100,CargoNet,"Dallas, TX","Miami, FL",Standard,17195.84,2026-08-31 21:43,2026-09-03 01:51,2026-09-03 01:51,In Transit,2026-09-02 13:17,on_time,
+SHP-10101,CargoNet,"Los Angeles, CA","Charlotte, NC",Gold,10879.28,2026-08-29 06:56,2026-09-01 10:00,2026-09-01 12:48,In Transit,2026-09-02 11:45,minor_delay,
+SHP-10102,CargoNet,"Dallas, TX","Miami, FL",Standard,4662.19,2026-08-29 12:18,2026-08-31 01:55,2026-08-31 16:06,In Transit,2026-09-02 09:00,at_risk_eta_slip,ETA has slipped significantly from original plan
+SHP-10103,CargoNet,"Los Angeles, CA","Miami, FL",Gold,12763.99,2026-08-28 21:38,2026-09-01 03:08,2026-09-01 05:13,In Transit,2026-09-02 11:15,minor_delay,
+SHP-10104,RapidLine,"Chicago, IL","Columbus, OH",Platinum,5705.63,2026-08-29 14:18,2026-09-01 11:46,2026-09-01 11:46,In Transit,2026-09-01 15:46,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10105,TransGlobal,"Los Angeles, CA","Phoenix, AZ",Standard,8837.85,2026-09-01 04:37,2026-09-04 11:56,2026-09-04 13:04,In Transit,2026-09-02 11:43,minor_delay,
+SHP-10106,SwiftHaul,"Dallas, TX","Denver, CO",Standard,10010.44,2026-08-29 15:12,2026-09-02 08:11,2026-09-02 09:12,In Transit,2026-09-02 12:57,minor_delay,
+SHP-10107,TransGlobal,"Newark, NJ","Seattle, WA",Standard,14757.72,2026-08-31 04:35,2026-09-03 19:19,2026-09-03 19:19,In Transit,2026-09-01 08:28,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10108,SwiftHaul,"Los Angeles, CA","Denver, CO",Standard,22995.19,2026-08-28 20:39,2026-08-30 19:02,2026-08-30 19:02,In Transit,2026-09-02 13:27,on_time,
+SHP-10109,RapidLine,"Dallas, TX","Columbus, OH",Standard,19937.85,2026-08-31 16:49,2026-09-02 06:47,2026-09-02 06:47,Out for Delivery,2026-09-02 13:06,on_time,
+SHP-10110,SwiftHaul,"Atlanta, GA","Columbus, OH",Gold,8844.71,2026-08-29 07:35,2026-08-31 21:56,2026-09-01 20:45,Exception,2026-09-01 17:01,exception,Customs hold at border crossing
+SHP-10111,CargoNet,"Atlanta, GA","Miami, FL",Standard,17046.62,2026-09-01 04:51,2026-09-05 02:37,2026-09-06 08:28,In Transit,2026-09-02 08:39,at_risk_eta_slip,ETA has slipped significantly from original plan
+SHP-10112,FreightCo,"Los Angeles, CA","Miami, FL",Standard,17428.65,2026-08-29 01:46,2026-08-31 17:03,2026-08-31 20:39,In Transit,2026-09-02 11:22,minor_delay,
+SHP-10113,CargoNet,"Newark, NJ","Phoenix, AZ",Standard,12236.38,2026-08-31 05:00,2026-09-03 09:57,2026-09-03 09:57,Out for Delivery,2026-09-02 13:52,on_time,
+SHP-10114,FreightCo,"Atlanta, GA","Denver, CO",Standard,4305.02,2026-08-30 23:57,2026-09-02 06:16,2026-09-02 06:16,In Transit,2026-09-01 09:34,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10115,FreightCo,"Dallas, TX","Seattle, WA",Platinum,20187.73,2026-09-01 04:05,2026-09-03 14:08,2026-09-03 14:08,In Transit,2026-09-02 13:00,on_time,
+SHP-10116,FreightCo,"Dallas, TX","Columbus, OH",Standard,9723.99,2026-08-28 17:31,2026-08-31 00:23,2026-08-31 00:23,In Transit,2026-09-02 13:33,on_time,
+SHP-10117,SwiftHaul,"Los Angeles, CA","Seattle, WA",Platinum,12589.65,2026-08-30 04:58,2026-09-02 00:40,2026-09-03 22:29,Exception,2026-09-02 03:53,exception,Damaged goods reported at last checkpoint
+SHP-10118,CargoNet,"Los Angeles, CA","Seattle, WA",Standard,2244.21,2026-08-30 10:29,2026-09-02 11:27,2026-09-02 11:27,Delivered,2026-09-02 12:36,on_time,
+SHP-10119,FreightCo,"Los Angeles, CA","Miami, FL",Standard,7870.39,2026-08-29 14:47,2026-09-01 23:14,2026-09-01 23:14,Delivered,2026-09-02 13:53,on_time,
+SHP-10120,CargoNet,"Chicago, IL","Charlotte, NC",Standard,14500.96,2026-09-01 06:36,2026-09-03 21:54,2026-09-03 21:54,Delivered,2026-09-02 13:39,on_time,
+SHP-10121,FreightCo,"Newark, NJ","Denver, CO",Standard,10600.36,2026-08-31 07:06,2026-09-02 20:04,2026-09-03 07:38,In Transit,2026-09-02 11:08,at_risk_eta_slip,ETA has slipped significantly from original plan
+SHP-10122,FreightCo,"Atlanta, GA","Phoenix, AZ",Gold,19655.78,2026-08-29 15:00,2026-08-31 17:33,2026-08-31 17:33,In Transit,2026-09-02 12:52,on_time,
+SHP-10123,TransGlobal,"Chicago, IL","Phoenix, AZ",Standard,6106.56,2026-08-30 14:45,2026-09-01 06:21,2026-09-02 00:25,Exception,2026-09-01 15:15,exception,Damaged goods reported at last checkpoint
+SHP-10124,TransGlobal,"Los Angeles, CA","Denver, CO",Standard,8291.04,2026-08-30 18:32,2026-09-01 20:33,2026-09-03 12:58,Exception,2026-09-02 04:15,exception,Carrier reports mechanical breakdown
+SHP-10125,FreightCo,"Dallas, TX","Charlotte, NC",Platinum,17836.7,2026-08-28 17:02,2026-08-31 04:48,2026-08-31 04:48,In Transit,2026-09-02 13:51,on_time,
+SHP-10126,TransGlobal,"Memphis, TN","Denver, CO",Standard,2284.18,2026-08-30 05:43,2026-09-03 00:46,2026-09-03 00:46,In Transit,2026-09-02 12:38,on_time,
+SHP-10127,RapidLine,"Dallas, TX","Charlotte, NC",Gold,4841.35,2026-08-31 11:08,2026-09-04 04:08,2026-09-04 04:08,In Transit,2026-09-02 12:59,on_time,
+SHP-10128,RapidLine,"Memphis, TN","Charlotte, NC",Gold,19579.59,2026-08-31 04:58,2026-09-03 02:54,2026-09-03 02:54,In Transit,2026-09-02 13:27,on_time,
+SHP-10129,FreightCo,"Dallas, TX","Miami, FL",Standard,19975.29,2026-08-31 03:56,2026-09-03 18:17,2026-09-04 08:35,Delayed,2026-09-02 09:46,weather_delay,Carrier reports weather-related delay on route
+SHP-10130,FreightCo,"Chicago, IL","Phoenix, AZ",Standard,694.21,2026-08-30 16:06,2026-09-02 00:01,2026-09-02 00:01,In Transit,2026-09-01 16:30,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10131,RapidLine,"Newark, NJ","Columbus, OH",Gold,8200.56,2026-08-28 16:19,2026-09-01 00:15,2026-09-01 02:43,In Transit,2026-09-02 12:42,minor_delay,
+SHP-10132,CargoNet,"Los Angeles, CA","Miami, FL",Platinum,15139.24,2026-08-28 21:34,2026-09-01 19:37,2026-09-01 19:37,Out for Delivery,2026-09-02 13:42,on_time,
+SHP-10133,TransGlobal,"Chicago, IL","Denver, CO",Platinum,9771.24,2026-08-29 15:40,2026-09-02 13:49,2026-09-03 01:07,Delayed,2026-09-02 10:48,weather_delay,Carrier reports weather-related delay on route
+SHP-10134,RapidLine,"Dallas, TX","Denver, CO",Platinum,23557.49,2026-08-28 16:06,2026-08-31 00:23,2026-09-01 14:38,Exception,2026-09-01 23:05,exception,Shipment misrouted to wrong hub
+SHP-10135,CargoNet,"Los Angeles, CA","Phoenix, AZ",Platinum,294.63,2026-09-01 05:35,2026-09-04 19:01,2026-09-04 19:01,In Transit,2026-09-01 21:51,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10136,RapidLine,"Atlanta, GA","Phoenix, AZ",Gold,6729.74,2026-08-30 17:21,2026-09-01 18:55,2026-09-01 18:55,Delivered,2026-09-02 12:57,on_time,
+SHP-10137,RapidLine,"Atlanta, GA","Columbus, OH",Gold,21377.71,2026-09-01 10:39,2026-09-04 08:56,2026-09-04 12:53,In Transit,2026-09-02 13:07,minor_delay,
+SHP-10138,CargoNet,"Atlanta, GA","Charlotte, NC",Standard,22871.51,2026-09-01 07:34,2026-09-03 18:51,2026-09-03 18:51,Out for Delivery,2026-09-02 13:10,on_time,
+SHP-10139,TransGlobal,"Newark, NJ","Charlotte, NC",Standard,6750.59,2026-08-29 23:08,2026-09-01 21:27,2026-09-01 23:40,In Transit,2026-09-02 11:57,minor_delay,
+SHP-10140,RapidLine,"Memphis, TN","Denver, CO",Platinum,21748.72,2026-09-01 01:05,2026-09-04 23:33,2026-09-05 01:21,In Transit,2026-09-02 12:27,minor_delay,
+SHP-10141,SwiftHaul,"Newark, NJ","Miami, FL",Platinum,4980.53,2026-08-29 06:02,2026-09-01 20:15,2026-09-01 20:15,Out for Delivery,2026-09-02 12:54,on_time,
+SHP-10142,TransGlobal,"Memphis, TN","Denver, CO",Platinum,880.77,2026-09-01 09:14,2026-09-05 00:27,2026-09-05 14:53,In Transit,2026-09-02 11:52,at_risk_eta_slip,ETA has slipped significantly from original plan
+SHP-10143,TransGlobal,"Memphis, TN","Denver, CO",Standard,10710.41,2026-08-31 01:51,2026-09-02 10:46,2026-09-02 10:46,Delivered,2026-09-02 13:10,on_time,
+SHP-10144,TransGlobal,"Atlanta, GA","Charlotte, NC",Standard,23814.26,2026-08-29 23:27,2026-08-31 22:45,2026-08-31 23:55,In Transit,2026-09-02 11:21,minor_delay,
+SHP-10145,SwiftHaul,"Atlanta, GA","Denver, CO",Standard,17220.69,2026-08-30 00:43,2026-09-01 17:15,2026-09-02 18:10,Exception,2026-09-02 03:16,exception,Shipment misrouted to wrong hub
+SHP-10146,TransGlobal,"Atlanta, GA","Charlotte, NC",Standard,11701.26,2026-09-01 02:41,2026-09-02 17:54,2026-09-02 17:54,In Transit,2026-09-01 10:20,at_risk_no_gps,No GPS ping received in over 12 hours
+SHP-10147,RapidLine,"Dallas, TX","Charlotte, NC",Standard,4672.85,2026-09-01 06:14,2026-09-03 14:11,2026-09-04 07:06,Exception,2026-09-01 22:46,exception,Shipment misrouted to wrong hub
+SHP-10148,TransGlobal,"Chicago, IL","Charlotte, NC",Standard,13369.64,2026-09-01 12:16,2026-09-03 00:31,2026-09-04 04:04,In Transit,2026-09-02 11:26,at_risk_eta_slip,ETA has slipped significantly from original plan
+SHP-10149,RapidLine,"Atlanta, GA","Phoenix, AZ",Gold,22690.98,2026-08-29 08:02,2026-08-30 21:11,2026-08-30 21:11,In Transit,2026-09-02 12:52,on_time,

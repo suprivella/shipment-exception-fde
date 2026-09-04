@@ -1,0 +1,151 @@
+shipment_id,route,weather_condition,severity_score,is_severe,checked_at
+SHP-10000,"Chicago, IL -> Denver, CO",Heavy Rain,6.6,True,2026-09-02 12:52
+SHP-10001,"Dallas, TX -> Charlotte, NC",Clear,0.0,False,2026-09-02 13:08
+SHP-10002,"Los Angeles, CA -> Charlotte, NC",Clear,0.0,False,2026-09-01 08:57
+SHP-10003,"Atlanta, GA -> Seattle, WA",Clear,0.0,False,2026-09-02 12:39
+SHP-10004,"Dallas, TX -> Denver, CO",Clear,0.0,False,2026-09-02 12:07
+SHP-10005,"Dallas, TX -> Miami, FL",Rain,0.8,False,2026-09-01 07:13
+SHP-10006,"Chicago, IL -> Denver, CO",Clear,0.0,False,2026-09-02 13:40
+SHP-10007,"Atlanta, GA -> Columbus, OH",Clear,0.0,False,2026-09-01 04:04
+SHP-10008,"Memphis, TN -> Seattle, WA",Clear,0.0,False,2026-09-01 22:39
+SHP-10009,"Chicago, IL -> Denver, CO",Heavy Rain,8.2,True,2026-09-02 12:08
+SHP-10010,"Dallas, TX -> Columbus, OH",Clear,0.0,False,2026-09-02 13:06
+SHP-10011,"Newark, NJ -> Miami, FL",Clear,0.0,False,2026-09-02 13:28
+SHP-10012,"Los Angeles, CA -> Miami, FL",Clear,0.0,False,2026-09-02 12:35
+SHP-10013,"Chicago, IL -> Denver, CO",Clear,0.0,False,2026-09-01 07:41
+SHP-10014,"Atlanta, GA -> Phoenix, AZ",Ice Storm,8.9,True,2026-09-02 09:17
+SHP-10015,"Los Angeles, CA -> Columbus, OH",Clear,0.0,False,2026-09-02 13:35
+SHP-10016,"Dallas, TX -> Miami, FL",Rain,2.6,False,2026-09-02 10:26
+SHP-10017,"Newark, NJ -> Charlotte, NC",Clear,0.0,False,2026-09-01 08:39
+SHP-10018,"Memphis, TN -> Charlotte, NC",Snow,7.1,True,2026-09-02 12:39
+SHP-10019,"Memphis, TN -> Miami, FL",Rain,0.8,False,2026-09-01 07:28
+SHP-10020,"Newark, NJ -> Charlotte, NC",Clear,0.0,False,2026-09-02 11:15
+SHP-10021,"Newark, NJ -> Columbus, OH",Clear,0.0,False,2026-09-02 13:14
+SHP-10022,"Newark, NJ -> Denver, CO",Clear,0.0,False,2026-09-02 13:25
+SHP-10023,"Atlanta, GA -> Seattle, WA",Clear,0.0,False,2026-09-02 13:32
+SHP-10024,"Los Angeles, CA -> Denver, CO",Clear,0.0,False,2026-09-02 12:53
+SHP-10025,"Memphis, TN -> Miami, FL",Clear,0.0,False,2026-09-02 11:52
+SHP-10026,"Los Angeles, CA -> Seattle, WA",Clear,0.0,False,2026-09-02 11:46
+SHP-10027,"Newark, NJ -> Phoenix, AZ",Rain,0.7,False,2026-09-01 13:12
+SHP-10028,"Atlanta, GA -> Charlotte, NC",High Wind,8.2,True,2026-09-01 18:10
+SHP-10029,"Memphis, TN -> Seattle, WA",Clear,0.0,False,2026-09-02 12:34
+SHP-10030,"Dallas, TX -> Miami, FL",Clear,0.0,False,2026-09-02 11:05
+SHP-10031,"Memphis, TN -> Charlotte, NC",Clear,0.0,False,2026-09-02 08:19
+SHP-10032,"Memphis, TN -> Seattle, WA",Clear,0.0,False,2026-09-02 13:03
+SHP-10033,"Dallas, TX -> Miami, FL",Clear,0.0,False,2026-09-02 13:05
+SHP-10034,"Memphis, TN -> Miami, FL",Clear,0.0,False,2026-09-02 12:49
+SHP-10035,"Los Angeles, CA -> Columbus, OH",Clear,0.0,False,2026-09-01 13:23
+SHP-10036,"Chicago, IL -> Charlotte, NC",Ice Storm,7.9,True,2026-09-02 11:40
+SHP-10037,"Los Angeles, CA -> Columbus, OH",Ice Storm,7.0,True,2026-09-02 12:56
+SHP-10038,"Newark, NJ -> Columbus, OH",Clear,0.0,False,2026-09-02 12:50
+SHP-10039,"Dallas, TX -> Phoenix, AZ",Ice Storm,8.6,True,2026-09-02 11:59
+SHP-10040,"Los Angeles, CA -> Seattle, WA",Clear,0.0,False,2026-09-01 05:44
+SHP-10041,"Memphis, TN -> Phoenix, AZ",Clear,0.0,False,2026-09-02 09:46
+SHP-10042,"Dallas, TX -> Charlotte, NC",Snow,8.1,True,2026-09-02 12:41
+SHP-10043,"Newark, NJ -> Seattle, WA",Clear,0.0,False,2026-09-02 13:26
+SHP-10044,"Los Angeles, CA -> Charlotte, NC",Clear,0.0,False,2026-09-02 12:30
+SHP-10045,"Chicago, IL -> Seattle, WA",Clear,0.0,False,2026-09-02 13:03
+SHP-10046,"Atlanta, GA -> Phoenix, AZ",Snow,8.6,True,2026-09-02 09:50
+SHP-10047,"Atlanta, GA -> Seattle, WA",Rain,2.8,False,2026-09-02 12:23
+SHP-10048,"Memphis, TN -> Denver, CO",Snow,9.0,True,2026-09-02 11:24
+SHP-10049,"Newark, NJ -> Miami, FL",Clear,0.0,False,2026-09-02 05:10
+SHP-10050,"Newark, NJ -> Denver, CO",Clear,0.0,False,2026-09-02 12:49
+SHP-10051,"Memphis, TN -> Charlotte, NC",Rain,2.2,False,2026-09-02 13:47
+SHP-10052,"Chicago, IL -> Columbus, OH",Clear,0.0,False,2026-09-02 12:51
+SHP-10053,"Los Angeles, CA -> Denver, CO",Clear,0.0,False,2026-09-02 12:44
+SHP-10054,"Dallas, TX -> Charlotte, NC",Clear,0.0,False,2026-09-02 13:03
+SHP-10055,"Dallas, TX -> Seattle, WA",Rain,2.4,False,2026-09-02 13:15
+SHP-10056,"Memphis, TN -> Phoenix, AZ",Clear,0.0,False,2026-09-02 12:31
+SHP-10057,"Chicago, IL -> Charlotte, NC",Clear,0.0,False,2026-09-01 04:47
+SHP-10058,"Memphis, TN -> Denver, CO",Clear,0.0,False,2026-09-01 16:02
+SHP-10059,"Chicago, IL -> Denver, CO",Clear,0.0,False,2026-09-02 12:46
+SHP-10060,"Atlanta, GA -> Denver, CO",Clear,0.0,False,2026-09-02 12:45
+SHP-10061,"Dallas, TX -> Seattle, WA",Clear,0.0,False,2026-09-02 00:00
+SHP-10062,"Newark, NJ -> Columbus, OH",Fog,0.9,False,2026-09-01 17:34
+SHP-10063,"Atlanta, GA -> Phoenix, AZ",Clear,0.0,False,2026-09-02 13:11
+SHP-10064,"Dallas, TX -> Columbus, OH",Rain,3.1,False,2026-09-01 13:28
+SHP-10065,"Atlanta, GA -> Columbus, OH",Snow,8.4,True,2026-09-02 11:31
+SHP-10066,"Newark, NJ -> Charlotte, NC",Rain,1.8,False,2026-09-01 08:49
+SHP-10067,"Chicago, IL -> Phoenix, AZ",Clear,0.0,False,2026-09-02 13:21
+SHP-10068,"Newark, NJ -> Seattle, WA",Clear,0.0,False,2026-09-02 12:37
+SHP-10069,"Dallas, TX -> Denver, CO",Fog,2.1,False,2026-09-02 13:34
+SHP-10070,"Newark, NJ -> Columbus, OH",Fog,3.1,False,2026-09-02 12:07
+SHP-10071,"Atlanta, GA -> Columbus, OH",Clear,0.0,False,2026-09-02 13:00
+SHP-10072,"Newark, NJ -> Seattle, WA",Clear,0.0,False,2026-09-01 18:36
+SHP-10073,"Los Angeles, CA -> Phoenix, AZ",Clear,0.0,False,2026-09-02 13:45
+SHP-10074,"Atlanta, GA -> Seattle, WA",Clear,0.0,False,2026-09-02 13:30
+SHP-10075,"Dallas, TX -> Charlotte, NC",Clear,0.0,False,2026-09-02 13:02
+SHP-10076,"Los Angeles, CA -> Phoenix, AZ",Clear,0.0,False,2026-09-02 12:43
+SHP-10077,"Newark, NJ -> Seattle, WA",Clear,0.0,False,2026-09-02 13:39
+SHP-10078,"Los Angeles, CA -> Denver, CO",Clear,0.0,False,2026-09-01 14:41
+SHP-10079,"Atlanta, GA -> Denver, CO",Rain,1.3,False,2026-09-02 04:03
+SHP-10080,"Newark, NJ -> Denver, CO",Clear,0.0,False,2026-09-02 13:00
+SHP-10081,"Atlanta, GA -> Charlotte, NC",Clear,0.0,False,2026-09-02 12:37
+SHP-10082,"Newark, NJ -> Columbus, OH",Rain,3.1,False,2026-09-02 12:14
+SHP-10083,"Los Angeles, CA -> Miami, FL",Clear,0.0,False,2026-09-02 12:32
+SHP-10084,"Memphis, TN -> Columbus, OH",Clear,0.0,False,2026-09-01 14:10
+SHP-10085,"Chicago, IL -> Columbus, OH",Clear,0.0,False,2026-09-02 13:44
+SHP-10086,"Memphis, TN -> Phoenix, AZ",Clear,0.0,False,2026-09-01 15:03
+SHP-10087,"Dallas, TX -> Denver, CO",Rain,2.1,False,2026-09-02 12:50
+SHP-10088,"Newark, NJ -> Columbus, OH",Clear,0.0,False,2026-09-01 18:36
+SHP-10089,"Dallas, TX -> Charlotte, NC",Clear,0.0,False,2026-09-02 12:40
+SHP-10090,"Dallas, TX -> Phoenix, AZ",Clear,0.0,False,2026-09-02 13:09
+SHP-10091,"Newark, NJ -> Denver, CO",Rain,3.1,False,2026-09-02 12:35
+SHP-10092,"Atlanta, GA -> Charlotte, NC",Rain,1.4,False,2026-09-02 11:59
+SHP-10093,"Los Angeles, CA -> Miami, FL",Ice Storm,7.2,True,2026-09-02 03:18
+SHP-10094,"Chicago, IL -> Denver, CO",Clear,0.0,False,2026-09-01 03:55
+SHP-10095,"Chicago, IL -> Columbus, OH",Clear,0.0,False,2026-09-02 13:22
+SHP-10096,"Memphis, TN -> Columbus, OH",Rain,2.8,False,2026-09-02 12:38
+SHP-10097,"Chicago, IL -> Phoenix, AZ",Clear,0.0,False,2026-09-02 13:06
+SHP-10098,"Atlanta, GA -> Miami, FL",Clear,0.0,False,2026-09-02 13:12
+SHP-10099,"Atlanta, GA -> Charlotte, NC",Clear,0.0,False,2026-09-02 13:17
+SHP-10100,"Dallas, TX -> Miami, FL",Clear,0.0,False,2026-09-02 13:17
+SHP-10101,"Los Angeles, CA -> Charlotte, NC",Rain,1.8,False,2026-09-02 11:45
+SHP-10102,"Dallas, TX -> Miami, FL",Clear,0.0,False,2026-09-02 09:00
+SHP-10103,"Los Angeles, CA -> Miami, FL",Clear,0.0,False,2026-09-02 11:15
+SHP-10104,"Chicago, IL -> Columbus, OH",Clear,0.0,False,2026-09-01 15:46
+SHP-10105,"Los Angeles, CA -> Phoenix, AZ",Clear,0.0,False,2026-09-02 11:43
+SHP-10106,"Dallas, TX -> Denver, CO",Clear,0.0,False,2026-09-02 12:57
+SHP-10107,"Newark, NJ -> Seattle, WA",Fog,2.4,False,2026-09-01 08:28
+SHP-10108,"Los Angeles, CA -> Denver, CO",Clear,0.0,False,2026-09-02 13:27
+SHP-10109,"Dallas, TX -> Columbus, OH",Clear,0.0,False,2026-09-02 13:06
+SHP-10110,"Atlanta, GA -> Columbus, OH",Ice Storm,7.1,True,2026-09-01 17:01
+SHP-10111,"Atlanta, GA -> Miami, FL",Clear,0.0,False,2026-09-02 08:39
+SHP-10112,"Los Angeles, CA -> Miami, FL",Clear,0.0,False,2026-09-02 11:22
+SHP-10113,"Newark, NJ -> Phoenix, AZ",Clear,0.0,False,2026-09-02 13:52
+SHP-10114,"Atlanta, GA -> Denver, CO",Clear,0.0,False,2026-09-01 09:34
+SHP-10115,"Dallas, TX -> Seattle, WA",Clear,0.0,False,2026-09-02 13:00
+SHP-10116,"Dallas, TX -> Columbus, OH",Clear,0.0,False,2026-09-02 13:33
+SHP-10117,"Los Angeles, CA -> Seattle, WA",Ice Storm,8.7,True,2026-09-02 03:53
+SHP-10118,"Los Angeles, CA -> Seattle, WA",Clear,0.0,False,2026-09-02 12:36
+SHP-10119,"Los Angeles, CA -> Miami, FL",Clear,0.0,False,2026-09-02 13:53
+SHP-10120,"Chicago, IL -> Charlotte, NC",Clear,0.0,False,2026-09-02 13:39
+SHP-10121,"Newark, NJ -> Denver, CO",Clear,0.0,False,2026-09-02 11:08
+SHP-10122,"Atlanta, GA -> Phoenix, AZ",Clear,0.0,False,2026-09-02 12:52
+SHP-10123,"Chicago, IL -> Phoenix, AZ",Clear,0.0,False,2026-09-01 15:15
+SHP-10124,"Los Angeles, CA -> Denver, CO",Rain,2.9,False,2026-09-02 04:15
+SHP-10125,"Dallas, TX -> Charlotte, NC",Clear,0.0,False,2026-09-02 13:51
+SHP-10126,"Memphis, TN -> Denver, CO",Clear,0.0,False,2026-09-02 12:38
+SHP-10127,"Dallas, TX -> Charlotte, NC",Clear,0.0,False,2026-09-02 12:59
+SHP-10128,"Memphis, TN -> Charlotte, NC",Clear,0.0,False,2026-09-02 13:27
+SHP-10129,"Dallas, TX -> Miami, FL",High Wind,9.1,True,2026-09-02 09:46
+SHP-10130,"Chicago, IL -> Phoenix, AZ",Clear,0.0,False,2026-09-01 16:30
+SHP-10131,"Newark, NJ -> Columbus, OH",Clear,0.0,False,2026-09-02 12:42
+SHP-10132,"Los Angeles, CA -> Miami, FL",Clear,0.0,False,2026-09-02 13:42
+SHP-10133,"Chicago, IL -> Denver, CO",Heavy Rain,7.7,True,2026-09-02 10:48
+SHP-10134,"Dallas, TX -> Denver, CO",Rain,1.2,False,2026-09-01 23:05
+SHP-10135,"Los Angeles, CA -> Phoenix, AZ",Clear,0.0,False,2026-09-01 21:51
+SHP-10136,"Atlanta, GA -> Phoenix, AZ",Clear,0.0,False,2026-09-02 12:57
+SHP-10137,"Atlanta, GA -> Columbus, OH",Clear,0.0,False,2026-09-02 13:07
+SHP-10138,"Atlanta, GA -> Charlotte, NC",Clear,0.0,False,2026-09-02 13:10
+SHP-10139,"Newark, NJ -> Charlotte, NC",Clear,0.0,False,2026-09-02 11:57
+SHP-10140,"Memphis, TN -> Denver, CO",Rain,1.8,False,2026-09-02 12:27
+SHP-10141,"Newark, NJ -> Miami, FL",Rain,2.2,False,2026-09-02 12:54
+SHP-10142,"Memphis, TN -> Denver, CO",Clear,0.0,False,2026-09-02 11:52
+SHP-10143,"Memphis, TN -> Denver, CO",Fog,3.0,False,2026-09-02 13:10
+SHP-10144,"Atlanta, GA -> Charlotte, NC",Fog,3.3,False,2026-09-02 11:21
+SHP-10145,"Atlanta, GA -> Denver, CO",Clear,0.0,False,2026-09-02 03:16
+SHP-10146,"Atlanta, GA -> Charlotte, NC",Clear,0.0,False,2026-09-01 10:20
+SHP-10147,"Dallas, TX -> Charlotte, NC",High Wind,8.8,True,2026-09-01 22:46
+SHP-10148,"Chicago, IL -> Charlotte, NC",Clear,0.0,False,2026-09-02 11:26
+SHP-10149,"Atlanta, GA -> Phoenix, AZ",Clear,0.0,False,2026-09-02 12:52
