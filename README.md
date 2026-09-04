@@ -60,7 +60,8 @@ Carrier status: Exception; Severe weather on route: Ice Storm (severity 8.7)
 - **Python** — data generation and detection logic
 - **Claude API** — AI reasoning layer (in progress)
 - Built iteratively with AI-assisted coding (Claude), with logic, thresholds, and scoring design done by me — I can walk through every design decision in the code.
-
+- 
+## Requirements ``` pip3 install streamlit pandas anthropic ``` 
 ## Getting started
 
 ```bash
@@ -72,6 +73,7 @@ cd shipment-exception-fde-prototype
 python3 generate_shipments.py
 python3 generate_weather.py
 python3 detect_exceptions.py
+streamlit run dashboard.py
 ```
 
 Outputs `shipments.csv`, `gps_pings.csv`, `status_events.csv`, `weather.csv`, and `flagged_shipments.csv`.
@@ -82,7 +84,7 @@ Outputs `shipments.csv`, `gps_pings.csv`, `status_events.csv`, `weather.csv`, an
 - [x] Weather data integration
 - [x] Rule-based risk detection and impact scoring
 - [x] Claude API reasoning layer (explanation + recommended action + draft customer message)
-- [ ] Simple dashboard (Streamlit) for a non-technical ops user
+- [x] Simple dashboard (Streamlit) for a non-technical ops user
 - [ ] Demo video walkthrough
 
 ## About me
