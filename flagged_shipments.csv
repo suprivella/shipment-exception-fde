@@ -1,0 +1,64 @@
+shipment_id,carrier,route,customer_tier,order_value_usd,current_status,gps_age_hours,eta_slip_hours,is_flagged,risk_score,impact_score,reasons
+SHP-10117,SwiftHaul,"Los Angeles, CA -> Seattle, WA",Platinum,12589.65,Exception,10.1,45.8,True,91.1,165.4,ETA slipped 45.8 hours from plan; Carrier status: Exception; Severe weather on route: Ice Storm (severity 8.7)
+SHP-10134,RapidLine,"Dallas, TX -> Denver, CO",Platinum,23557.49,Exception,14.9,38.2,True,77.4,165.2,No GPS ping in 14.9 hours; ETA slipped 38.2 hours from plan; Carrier status: Exception
+SHP-10028,TransGlobal,"Atlanta, GA -> Charlotte, NC",Gold,18087.85,Exception,19.8,21.3,True,92.8,164.3,No GPS ping in 19.8 hours; ETA slipped 21.3 hours from plan; Carrier status: Exception; Severe weather on route: High Wind (severity 8.2)
+SHP-10061,CargoNet,"Dallas, TX -> Seattle, WA",Platinum,22780.52,Exception,14.0,28.1,True,71.8,151.5,No GPS ping in 14.0 hours; ETA slipped 28.1 hours from plan; Carrier status: Exception
+SHP-10037,SwiftHaul,"Los Angeles, CA -> Columbus, OH",Platinum,24140.77,Delayed,1.1,18.7,True,69.4,149.3,ETA slipped 18.7 hours from plan; Carrier status: Delayed; Severe weather on route: Ice Storm (severity 7.0)
+SHP-10110,SwiftHaul,"Atlanta, GA -> Columbus, OH",Gold,8844.71,Exception,21.0,22.8,True,92.3,141.2,No GPS ping in 21.0 hours; ETA slipped 22.8 hours from plan; Carrier status: Exception; Severe weather on route: Ice Storm (severity 7.1)
+SHP-10084,TransGlobal,"Memphis, TN -> Columbus, OH",Standard,23527.76,Exception,23.8,30.0,True,82.4,139.3,No GPS ping in 23.8 hours; ETA slipped 30.0 hours from plan; Carrier status: Exception
+SHP-10039,SwiftHaul,"Dallas, TX -> Phoenix, AZ",Platinum,21796.82,Delayed,2.0,12.4,True,66.4,138.2,ETA slipped 12.4 hours from plan; Carrier status: Delayed; Severe weather on route: Ice Storm (severity 8.6)
+SHP-10093,SwiftHaul,"Los Angeles, CA -> Miami, FL",Standard,17184.2,Exception,10.7,31.2,True,85.6,132.2,ETA slipped 31.2 hours from plan; Carrier status: Exception; Severe weather on route: Ice Storm (severity 7.2)
+SHP-10078,CargoNet,"Los Angeles, CA -> Denver, CO",Standard,17703.23,Exception,23.3,27.4,True,78.7,122.6,No GPS ping in 23.3 hours; ETA slipped 27.4 hours from plan; Carrier status: Exception
+SHP-10129,FreightCo,"Dallas, TX -> Miami, FL",Standard,19975.29,Delayed,4.2,14.3,True,70.2,112.9,ETA slipped 14.3 hours from plan; Carrier status: Delayed; Severe weather on route: High Wind (severity 9.1)
+SHP-10014,FreightCo,"Atlanta, GA -> Phoenix, AZ",Standard,16739.95,Delayed,4.7,16.5,True,72.3,111.0,ETA slipped 16.5 hours from plan; Carrier status: Delayed; Severe weather on route: Ice Storm (severity 8.9)
+SHP-10042,TransGlobal,"Dallas, TX -> Charlotte, NC",Standard,23615.86,Delayed,1.3,12.6,True,65.0,110.0,ETA slipped 12.6 hours from plan; Carrier status: Delayed; Severe weather on route: Snow (severity 8.1)
+SHP-10048,FreightCo,"Memphis, TN -> Denver, CO",Standard,13873.11,Delayed,2.6,17.6,True,74.0,108.7,ETA slipped 17.6 hours from plan; Carrier status: Delayed; Severe weather on route: Snow (severity 9.0)
+SHP-10133,TransGlobal,"Chicago, IL -> Denver, CO",Platinum,9771.24,Delayed,3.2,11.3,True,62.2,107.9,ETA slipped 11.3 hours from plan; Carrier status: Delayed; Severe weather on route: Heavy Rain (severity 7.7)
+SHP-10147,RapidLine,"Dallas, TX -> Charlotte, NC",Standard,4672.85,Exception,15.2,16.9,True,85.2,107.2,No GPS ping in 15.2 hours; ETA slipped 16.9 hours from plan; Carrier status: Exception; Severe weather on route: High Wind (severity 8.8)
+SHP-10009,FreightCo,"Chicago, IL -> Denver, CO",Standard,20933.48,Delayed,1.9,12.8,True,65.6,107.0,ETA slipped 12.8 hours from plan; Carrier status: Delayed; Severe weather on route: Heavy Rain (severity 8.2)
+SHP-10036,TransGlobal,"Chicago, IL -> Charlotte, NC",Standard,20969.4,Delayed,2.3,12.8,True,64.7,105.6,ETA slipped 12.8 hours from plan; Carrier status: Delayed; Severe weather on route: Ice Storm (severity 7.9)
+SHP-10049,FreightCo,"Newark, NJ -> Miami, FL",Standard,16816.33,Exception,8.8,45.2,True,65,99.9,ETA slipped 45.2 hours from plan; Carrier status: Exception
+SHP-10079,TransGlobal,"Atlanta, GA -> Denver, CO",Gold,17683.71,Exception,9.9,24.0,True,55.0,96.8,ETA slipped 24.0 hours from plan; Carrier status: Exception
+SHP-10046,FreightCo,"Atlanta, GA -> Phoenix, AZ",Standard,13597.34,Delayed,4.2,11.0,True,64.6,94.5,ETA slipped 11.0 hours from plan; Carrier status: Delayed; Severe weather on route: Snow (severity 8.6)
+SHP-10062,RapidLine,"Newark, NJ -> Columbus, OH",Standard,671.3,Exception,20.4,29.0,True,78.2,91.2,No GPS ping in 20.4 hours; ETA slipped 29.0 hours from plan; Carrier status: Exception
+SHP-10018,CargoNet,"Memphis, TN -> Charlotte, NC",Gold,11165.56,Delayed,1.4,8.4,True,56.8,90.3,ETA slipped 8.4 hours from plan; Carrier status: Delayed; Severe weather on route: Snow (severity 7.1)
+SHP-10124,TransGlobal,"Los Angeles, CA -> Denver, CO",Standard,8291.04,Exception,9.8,40.4,True,65,87.1,ETA slipped 40.4 hours from plan; Carrier status: Exception
+SHP-10145,SwiftHaul,"Atlanta, GA -> Denver, CO",Standard,17220.69,Exception,10.7,24.9,True,56.1,86.8,ETA slipped 24.9 hours from plan; Carrier status: Exception
+SHP-10000,FreightCo,"Chicago, IL -> Denver, CO",Gold,5735.63,Delayed,1.1,11.9,True,59.7,86.5,ETA slipped 11.9 hours from plan; Carrier status: Delayed; Severe weather on route: Heavy Rain (severity 6.6)
+SHP-10123,TransGlobal,"Chicago, IL -> Phoenix, AZ",Standard,6106.56,Exception,22.8,18.1,True,66.5,85.9,No GPS ping in 22.8 hours; ETA slipped 18.1 hours from plan; Carrier status: Exception
+SHP-10086,FreightCo,"Memphis, TN -> Phoenix, AZ",Standard,1323.19,Exception,22.9,17.3,True,65.7,77.6,No GPS ping in 22.9 hours; ETA slipped 17.3 hours from plan; Carrier status: Exception
+SHP-10065,RapidLine,"Atlanta, GA -> Columbus, OH",Standard,4939.37,Delayed,2.5,7.8,True,50.2,63.4,Carrier status: Delayed; Severe weather on route: Snow (severity 8.4)
+SHP-10026,CargoNet,"Los Angeles, CA -> Seattle, WA",Gold,18329.45,In Transit,2.2,27.6,True,34.5,61.4,ETA slipped 27.6 hours from plan
+SHP-10111,CargoNet,"Atlanta, GA -> Miami, FL",Standard,17046.62,In Transit,5.3,29.9,True,37.3,57.5,ETA slipped 29.9 hours from plan
+SHP-10041,SwiftHaul,"Memphis, TN -> Phoenix, AZ",Standard,17008.56,In Transit,4.2,28.1,True,35.1,54.1,ETA slipped 28.1 hours from plan
+SHP-10057,TransGlobal,"Chicago, IL -> Charlotte, NC",Platinum,17023.81,In Transit,33.2,0.0,True,27.7,53.8,No GPS ping in 33.2 hours
+SHP-10148,TransGlobal,"Chicago, IL -> Charlotte, NC",Standard,13369.64,In Transit,2.6,27.6,True,34.4,50.2,ETA slipped 27.6 hours from plan
+SHP-10040,SwiftHaul,"Los Angeles, CA -> Seattle, WA",Platinum,9657.83,In Transit,32.3,0.0,True,26.9,46.5,No GPS ping in 32.3 hours
+SHP-10002,FreightCo,"Los Angeles, CA -> Charlotte, NC",Gold,20885.94,In Transit,29.1,0.0,True,24.2,44.6,No GPS ping in 29.1 hours
+SHP-10019,RapidLine,"Memphis, TN -> Miami, FL",Gold,17469.59,In Transit,30.5,0.0,True,25.4,44.6,No GPS ping in 30.5 hours
+SHP-10005,CargoNet,"Dallas, TX -> Miami, FL",Standard,21788.86,In Transit,30.8,0.0,True,25.7,42.4,No GPS ping in 30.8 hours
+SHP-10031,TransGlobal,"Memphis, TN -> Charlotte, NC",Standard,11459.98,In Transit,5.7,23.2,True,29.0,41.1,ETA slipped 23.2 hours from plan
+SHP-10094,SwiftHaul,"Chicago, IL -> Denver, CO",Gold,5624.25,In Transit,34.1,0.0,True,28.4,41.1,No GPS ping in 34.1 hours
+SHP-10027,FreightCo,"Newark, NJ -> Phoenix, AZ",Platinum,18057.85,In Transit,24.8,0.0,True,20.7,40.8,No GPS ping in 24.8 hours
+SHP-10092,TransGlobal,"Atlanta, GA -> Charlotte, NC",Gold,22093.74,In Transit,2.0,16.4,True,20.5,38.5,ETA slipped 16.4 hours from plan
+SHP-10013,FreightCo,"Chicago, IL -> Denver, CO",Gold,7061.67,In Transit,30.3,0.0,True,25.3,37.5,No GPS ping in 30.3 hours
+SHP-10107,TransGlobal,"Newark, NJ -> Seattle, WA",Standard,14757.72,In Transit,29.5,0.0,True,24.6,36.7,No GPS ping in 29.5 hours
+SHP-10007,FreightCo,"Atlanta, GA -> Columbus, OH",Standard,5906.85,In Transit,33.9,0.0,True,28.3,36.4,No GPS ping in 33.9 hours
+SHP-10016,TransGlobal,"Dallas, TX -> Miami, FL",Standard,6783.57,In Transit,3.6,22.1,True,27.6,36.1,ETA slipped 22.1 hours from plan
+SHP-10044,RapidLine,"Los Angeles, CA -> Charlotte, NC",Standard,18629.88,In Transit,1.5,18.3,True,22.9,36.1,ETA slipped 18.3 hours from plan
+SHP-10066,SwiftHaul,"Newark, NJ -> Charlotte, NC",Gold,2185.71,In Transit,29.2,0.0,True,24.3,33.0,No GPS ping in 29.2 hours
+SHP-10146,TransGlobal,"Atlanta, GA -> Charlotte, NC",Standard,11701.26,In Transit,27.7,0.0,True,23.1,32.7,No GPS ping in 27.7 hours
+SHP-10064,TransGlobal,"Dallas, TX -> Columbus, OH",Gold,8595.97,In Transit,24.5,0.0,True,20.4,31.1,No GPS ping in 24.5 hours
+SHP-10017,TransGlobal,"Newark, NJ -> Charlotte, NC",Standard,3290.71,In Transit,29.4,0.0,True,24.5,30.0,No GPS ping in 29.4 hours
+SHP-10104,RapidLine,"Chicago, IL -> Columbus, OH",Platinum,5705.63,In Transit,22.2,0.0,True,18.5,29.9,No GPS ping in 22.2 hours
+SHP-10114,FreightCo,"Atlanta, GA -> Denver, CO",Standard,4305.02,In Transit,28.4,0.0,True,23.7,29.6,No GPS ping in 28.4 hours
+SHP-10058,SwiftHaul,"Memphis, TN -> Denver, CO",Standard,18521.61,In Transit,22.0,0.0,True,18.3,28.8,No GPS ping in 22.0 hours
+SHP-10142,TransGlobal,"Memphis, TN -> Denver, CO",Platinum,880.77,In Transit,2.1,14.4,True,18.0,26.6,ETA slipped 14.4 hours from plan
+SHP-10035,FreightCo,"Los Angeles, CA -> Columbus, OH",Standard,4018.48,In Transit,24.6,0.0,True,20.5,25.5,No GPS ping in 24.6 hours
+SHP-10102,CargoNet,"Dallas, TX -> Miami, FL",Standard,4662.19,In Transit,5.0,14.2,True,17.7,22.3,ETA slipped 14.2 hours from plan
+SHP-10088,RapidLine,"Newark, NJ -> Columbus, OH",Gold,1868.81,In Transit,19.4,0.0,True,16.2,21.8,No GPS ping in 19.4 hours
+SHP-10130,FreightCo,"Chicago, IL -> Phoenix, AZ",Standard,694.21,In Transit,21.5,0.0,True,17.9,20.9,No GPS ping in 21.5 hours
+SHP-10121,FreightCo,"Newark, NJ -> Denver, CO",Standard,10600.36,In Transit,2.9,11.6,True,14.5,20.2,ETA slipped 11.6 hours from plan
+SHP-10008,FreightCo,"Memphis, TN -> Seattle, WA",Gold,10395.34,In Transit,15.3,0.0,True,12.8,20.1,No GPS ping in 15.3 hours
+SHP-10135,CargoNet,"Los Angeles, CA -> Phoenix, AZ",Platinum,294.63,In Transit,16.1,0.0,True,13.5,19.6,No GPS ping in 16.1 hours
+SHP-10072,SwiftHaul,"Newark, NJ -> Seattle, WA",Standard,951.09,In Transit,19.4,0.0,True,16.2,18.9,No GPS ping in 19.4 hours
