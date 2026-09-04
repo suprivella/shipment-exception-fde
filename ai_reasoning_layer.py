@@ -1,24 +1,3 @@
-"""
-AI Reasoning Layer for Shipment Exceptions
-
-Takes the output of detect_exceptions.py (flagged_shipments.csv) and, for each
-flagged shipment, calls the Claude API to generate:
-  1. A plain-English explanation of what's wrong
-  2. A recommended action for the ops team
-  3. A draft customer-facing message
-
-This is the "agentic" layer that turns rule-based detection into something
-an ops person can act on immediately, without reading raw signal data.
-
-SETUP:
-  1. pip install anthropic
-  2. Get an API key from https://console.anthropic.com/
-  3. Set it as an environment variable:
-       macOS/Linux:  export ANTHROPIC_API_KEY="your-key-here"
-       Windows:      set ANTHROPIC_API_KEY="your-key-here"
-  4. Run: python3 ai_reasoning_layer.py
-"""
-
 import csv
 import json
 import os
