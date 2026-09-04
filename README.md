@@ -1,8 +1,9 @@
 # Shipment Exception Detection & Rerouting Assistant
-<img width="1468" height="795" alt="Screenshot 2026-09-04 at 15 21 04" src="https://github.com/user-attachments/assets/58298613-7e5b-42f7-9f1b-bae9777ac374" />
-<img width="1465" height="797" alt="Screenshot 2026-09-04 at 15 20 36" src="https://github.com/user-attachments/assets/c5c62d71-0e03-4bc0-b924-b8277820bf76" />
 
 **A prototype built to explore how forward-deployed / solutions engineering work could accelerate logistics operations — built as a self-directed case study, not an assigned project.**
+
+<img width="1465" height="797" alt="Screenshot 2026-09-04 at 15 20 36" src="https://github.com/user-attachments/assets/c5c62d71-0e03-4bc0-b924-b8277820bf76" />
+<img width="1468" height="795" alt="Screenshot 2026-09-04 at 15 21 04" src="https://github.com/user-attachments/assets/58298613-7e5b-42f7-9f1b-bae9777ac374" />
 
 > 🎯 This project simulates a real pain point in logistics operations: shipments silently going "at risk" (stale GPS, slipping ETAs, severe weather, carrier exceptions) while ops teams find out too late. It ingests messy multi-source data, flags and ranks at-risk shipments by business impact, and (next phase) uses an LLM to generate a recommended action and a customer-facing explanation, the kind of tool a forward-deployed engineer would build embedded inside a logistics customer's operation.
 
