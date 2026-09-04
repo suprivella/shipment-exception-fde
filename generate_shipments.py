@@ -152,17 +152,17 @@ def main():
             datetime.strptime(shipment["current_eta"], "%Y-%m-%d %H:%M")
         ))
 
-    with open("/mnt/user-data/outputs/shipments.csv", "w", newline="") as f:
+    with open("shipments.csv", "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=shipments[0].keys())
         writer.writeheader()
         writer.writerows(shipments)
 
-    with open("/mnt/user-data/outputs/gps_pings.csv", "w", newline="") as f:
+    with open("gps_pings.csv", "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=all_pings[0].keys())
         writer.writeheader()
         writer.writerows(all_pings)
 
-    with open("/mnt/user-data/outputs/status_events.csv", "w", newline="") as f:
+    with open("status_events.csv", "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=all_events[0].keys())
         writer.writeheader()
         writer.writerows(all_events)

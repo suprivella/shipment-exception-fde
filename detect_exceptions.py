@@ -84,15 +84,15 @@ def evaluate_shipment(shipment, weather_by_id):
 
 
 def main():
-    shipments = load_csv("/mnt/user-data/outputs/shipments.csv")
-    weather = load_csv("/mnt/user-data/outputs/weather.csv")
+    shipments = load_csv("shipments.csv")
+    weather = load_csv("weather.csv")
     weather_by_id = {w["shipment_id"]: w for w in weather}
 
     results = [evaluate_shipment(s, weather_by_id) for s in shipments]
     flagged = [r for r in results if r["is_flagged"]]
     flagged.sort(key=lambda r: r["impact_score"], reverse=True)
 
-    with open("/mnt/user-data/outputs/flagged_shipments.csv", "w", newline="") as f:
+    with open("flagged_shipments.csv", "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=flagged[0].keys())
         writer.writeheader()
         writer.writerows(flagged)

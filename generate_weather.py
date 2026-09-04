@@ -14,7 +14,7 @@ CONDITIONS = ["Clear", "Rain", "Heavy Rain", "Snow", "Ice Storm", "High Wind", "
 SEVERE_CONDITIONS = {"Heavy Rain", "Snow", "Ice Storm", "High Wind"}
 
 def load_shipments():
-    with open("/mnt/user-data/outputs/shipments.csv") as f:
+    with open("shipments.csv") as f:
         return list(csv.DictReader(f))
 
 def main():
@@ -44,7 +44,7 @@ def main():
             "checked_at": s["last_gps_timestamp"],
         })
 
-    with open("/mnt/user-data/outputs/weather.csv", "w", newline="") as f:
+    with open("weather.csv", "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=rows[0].keys())
         writer.writeheader()
         writer.writerows(rows)
