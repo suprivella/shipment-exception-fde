@@ -1,6 +1,6 @@
 # Shipment Exception Detection & Rerouting Assistant
 
-**A prototype built to explore how forward-deployed / solutions engineering work could accelerate logistics operations — built as a self-directed case study, not an assigned project.**
+**I built this to explore how AI can help operations teams act on messy, multi-source data, and how data quality affects the reliability of AI-generated recommendations.**
 
 <img width="1465" height="797" alt="Screenshot 2026-09-04 at 15 20 36" src="https://github.com/user-attachments/assets/c5c62d71-0e03-4bc0-b924-b8277820bf76" />
 <img width="1468" height="795" alt="Screenshot 2026-09-04 at 15 21 04" src="https://github.com/user-attachments/assets/58298613-7e5b-42f7-9f1b-bae9777ac374" />
@@ -11,7 +11,7 @@
 
 ## Why I built this
 
-I'm moving toward forward-deployed / solutions engineering work — roles where you sit close to a customer's real operational problems and ship something useful fast, rather than building in the abstract. Instead of just applying, I wanted to show what that looks like: pick a realistic industry problem, build a working (if rough) solution, and document my reasoning along the way.
+I built this to explore how AI can help operations teams act on messy, multi-source data, and how data quality affects the reliability of AI-generated recommendations. Instead of just applying, I wanted to show what that looks like: pick a realistic industry problem, build a working (if rough) solution, and document my reasoning along the way.
 
 This isn't tied to any single company's real data — it's synthetic data modeled on how logistics/carrier data actually behaves in the wild (missing pings, conflicting statuses, ETA drift).
 
